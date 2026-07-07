@@ -1,4 +1,4 @@
-A true canvas for blocks in any form. Docs and whiteboard are now fully merged.
+A true canvas for blocks in any form. Docs and whiteboard are now fully merged. 
  
 Many editor apps claim to be a canvas for productivity, but AFFiNE is one of the very few which allows you to put any building block on an edgeless canvas -- rich text, sticky notes, any embedded web pages, multi-view databases, linked pages, shapes and even slides. We have it all.
 Multimodal AI partner ready to kick in any work
